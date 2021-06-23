@@ -1,6 +1,6 @@
 import React from 'react';
-// import Form from './component/form/index'
-import ModalPage from './pages/modal-test';
+// import Form from './pages/form/index'
+import ModalPage from './pages/modal-test/index';
 
 
 
